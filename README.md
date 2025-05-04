@@ -1,3 +1,4 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # 🎯 Développeur Full Stack passionné, spécialisé dans la création d'applications web modernes, performantes et scalables.
 Titulaire d’un Master 2 en Développement Web à Aix Ynov Campus, je conçois des solutions numériques à la fois robustes côté back-end et fluides côté front-end. J’interviens sur des projets variés (SaaS, e-commerce, intranet, outils métiers...) avec un souci constant de la qualité, de la performance et de l’expérience utilisateur.<br>
